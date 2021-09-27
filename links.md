@@ -21,9 +21,9 @@ layout: default
 
 ## GitHub
 
-- [Class GitHub organization](https://github.com/momentum-team-10) -- all your assignment repos are located here
-  - [code examples from class](https://github.com/momentum-team-10/examples)
-  - [notes/slides from class](https://github.com/momentum-team-10/notes)
+- [Class GitHub organization](https://github.com/Momentum-Team-10) -- all your assignment repos are located here
+  - [code examples from class](https://github.com/Momentum-Team-10/examples)
+  - [notes/slides from class](https://github.com/Momentum-Team-10/notes)
 
 ## General References
 
