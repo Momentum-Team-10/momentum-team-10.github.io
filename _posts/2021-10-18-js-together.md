@@ -56,4 +56,4 @@ This project is due on Thursday of this week. You'll work on it incrementally ea
 
 Team 10 developers will each talk about some code they have written at the end of this last week of Phase 1. You can choose any project JS project that we have worked on during Phase 1.
 
-We'll talk more about this on Thursday. For today, read the information about [how technical presentations work]( technical-presentations.md).
+We'll talk more about this on Thursday. For today, read the information about [how technical presentations work]({% link technical-presentations.md %}).

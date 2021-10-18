@@ -4,9 +4,9 @@ permalink: /presentations/
 layout: default
 ---
 
-# Team Nine Technical Presentations
+# Team Ten Technical Presentations
 
-- Phase 1: _Thursday, July 29, 2021_ 2:00 pm
+- Phase 1: _Thursday, October 21, 2021_ 2:00 pm
 
 Each student will give a short technical talk about a project that they worked on during the previous weeks of the phase.
 
