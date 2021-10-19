@@ -12,7 +12,7 @@ We're going to live code together in class using a practice called _mob programm
 
 Find your team assignment and the link to your team's repo below.
 
-### Team Malificent 😈
+### Team Maleficent 😈
 
 [All Team Malificent clone this repo](https://github.com/Momentum-Team-10/movie-search-app-team-malificent)
 
