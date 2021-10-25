@@ -63,7 +63,7 @@ If you get through all four of these, please continue with other exercises that 
 
 List the urls for your completed problems in a [gist on GitHub](https://gist.github.com/). A gist is a like a short form repo that you can create directly on GitHub. See [this guide for more detail on creating gists](https://docs.github.com/en/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists).
 
-You should have several Exercism URLs listed in your gist, and thry should look like this:
+You should have several Exercism URLs listed in your gist, and they should look like this:
 
 ```
 https://exercism.org/tracks/python/exercises/two-fer/solutions/yourexercismusername
