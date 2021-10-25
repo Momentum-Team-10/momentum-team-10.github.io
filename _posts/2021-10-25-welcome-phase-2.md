@@ -95,6 +95,7 @@ These articles are way more in-depth than you need right now, but they are good 
 - [Basic Input and Output](https://realpython.com/python-input-output/)
 - [String Formatting](https://realpython.com/python-formatted-output/)
 - [Defining Your Own Python Function](https://realpython.com/defining-your-own-python-function/)
+- [Docstrings in Python](https://realpython.com/documenting-python-code/#documenting-your-python-code-base-using-docstrings)
 
 ### Other Python Resources
 
