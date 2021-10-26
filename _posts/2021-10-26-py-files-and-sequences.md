@@ -34,6 +34,7 @@ Work through the same problems you did in the first week of JS using Python!
 - [Dictionaries](https://realpython.com/python-dicts/)
 - [Sets](https://realpython.com/python-sets/)
 - [Working with Files in Python](https://realpython.com/working-with-files-in-python/)
+- [Python Debugging with pdb](https://realpython.com/python-debugging-pdb/)
 
 ### Python Docs
 
