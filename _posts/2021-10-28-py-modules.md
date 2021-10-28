@@ -66,3 +66,4 @@ Don't forget about the Python problem sets I mentioned in class. These are the s
 ## 🦉 Code
 
 - [Python notebooks 12 - Modules](https://github.com/Momentum-Team-10/python-notebooks)
+- [Amy's solution to word frequency](https://github.com/Momentum-Team-10/python-word-frequency-amygori)
