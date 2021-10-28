@@ -18,3 +18,9 @@ Modify your game so that it tells the user how many tries it took them to guess 
 ### Step 3
 
 Limit the number of tries a user has to guess the number correctly. If the user doesn't guess it in the number of tries you've limited them to, they lose.
+
+### 🔡 Variation
+
+If you get all this working, create another version of the game that asks the user to guess a letter of the alphabet, and gives hints based on the alphabetical order of the player’s guess.
+
+Your user should be able to choose whether they want to play number guess or letter guess when the game starts.
