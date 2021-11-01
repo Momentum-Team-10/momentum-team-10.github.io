@@ -3,33 +3,35 @@ title: Python Code Break 5
 layout: default
 ---
 
-## Define a User class and create user objects
+# Define a User class and create user objects
 
-### Step 0
+## Step 0
 
 Create a new Python file and name it whatever you want. This is where you will write the code that follows.
 
-### Step 1
+## Step 1
 
-Make a class named `User`. Add the following attributes to your class (in the `__init__()` method):
+Make a class named `User`. Add the following attributes to your class (in the [`__init__()` method](https://docs.python.org/3/reference/datamodel.html#object.__init__)):
 
 - `name`
 - `email`
 - `city`
 - `state`
 
-Create two different user instances using your class and save them to variables (something like `user1` and `user2`). When you run your file, it should print out info about each user like the following:
+Create two different user instances using your class and save them to variables (something like `user1` and `user2`).
+
+When you run your file, print out info about each user like the following:
 
 ```
 Anton lives in Durham, NC.
 Cecil lives in San Francisco, CA.
 ```
 
-### Step 2
+## Step 2
 
-Add a `__str__` method to your class that displays the identity and attributes of an instance when it is printed.
+Implement a [`__str__` method](https://docs.python.org/3/reference/datamodel.html#object.__str__) in your class that displays the identity and attributes of an instance when it is printed.
 
-#### step 2 example
+### example
 
 Say you have a `Game` class; the `__str__` method could look like this (although there are lots of other options!):
 
@@ -44,11 +46,11 @@ If you print a game instance with that `__str__()` method (for example, `print(g
 <Game score=0 tries=8>
 ```
 
-### Step 3
+## Step 3
 
 Make a method named `location` that returns a string listing the user's city and state (e.g., "Durham, NC").
 
-### Step 4
+## Step 4
 
 Add an attribute called `is_active` to your class. This attribute should have a default value of `True`.
 
@@ -56,7 +58,7 @@ Then, make another method called `deactivate` that changes the value of the `is_
 
 Create an instance of a user and test that it works. Try resetting the attribute to `True` using the assignment operator and checking the value again.
 
-### Step 5
+## Step 5
 
 Add an attribute called `login_count` that keeps a count of how many days in a row a user logs in. Its default value should be 0.
 
