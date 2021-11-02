@@ -37,3 +37,5 @@ For our first Django app, we'll use the excellent tutorial provided by the Djang
 ## 🦉 Code
 
 - [Notes - Tour of a Django App](https://github.com/momentum-team-10/notes/blob/main/django-tour.md)
+- [Notes - Diagram of Django's structure](https://github.com/momentum-team-10/notes/blob/main/django-diagram.md)
+- [Starting a new Django project](https://www.notion.so/momentumlearn/Starting-a-new-Django-project-071f052d07cc4ea6bdf998eb9e4a4a3c)
