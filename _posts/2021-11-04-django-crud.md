@@ -40,3 +40,5 @@ This is due on **Monday**.
 ## 🦉 Notes
 
 - [Diagram of Django](https://github.com/Momentum-Team-9/notes/blob/main/django-diagram.md)
+- [Django Shell: How to create related objects](https://github.com/Momentum-Team-10/notes/blob/main/django-shell-example.md)
+- [Django Uptact Example](https://github.com/Momentum-Team-10/django-uptact-amygori)
