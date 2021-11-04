@@ -23,6 +23,9 @@ This is due on **Monday**.
 - [Django Docs Making Queries (using the ORM)](https://docs.djangoproject.com/en/3.2/topics/db/queries/)
 - [Django Docs Topic Guide](https://docs.djangoproject.com/en/3.2/topics/)
 
+- [Model field `null=True`](https://docs.djangoproject.com/en/3.2/ref/models/fields/#null) -> relevant for database storage
+- [Model field `blank=True`](https://docs.djangoproject.com/en/3.2/ref/models/fields/#blank) -> relevant for model object validation
+
 ### Forms
 
 - [Working with Forms](https://docs.djangoproject.com/en/3.2/topics/forms/) -> A good place to start for an overview
@@ -32,6 +35,7 @@ This is due on **Monday**.
 - [The Forms API](https://docs.djangoproject.com/en/3.2/ref/forms/api/) -> Details on form object attribute and methods (such as `as_p()`)
 - [Django's CSRF protection](https://docs.djangoproject.com/en/3.2/ref/csrf/)
   - [What is CSRF?](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+
 
 ## 🦉 Notes
 
