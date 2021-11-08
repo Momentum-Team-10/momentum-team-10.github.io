@@ -37,3 +37,7 @@ This is a 3-day assignment that you'll work on all week. It is due on Thursday, 
 - [RealPython: What is a decorator?](https://realpython.com/primer-on-python-decorators/)
 - [Python dependency management overview](https://modelpredict.com/python-dependency-management-tools) -> _A good read to understand `pip`, `pyenv`, and `pipenv` better._
 - [💥 Django Cheatsheet!](https://github.com/lucrae/django-cheat-sheet)
+
+## 🦉 Code
+
+- [Example app: Django Music](https://github.com/Momentum-Team-10/example-django-music)
