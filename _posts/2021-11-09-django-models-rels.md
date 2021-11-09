@@ -33,3 +33,4 @@ Continue working on Freeshelf, through Goals 2 and 3.
 
 - [What are foreign keys?](https://github.com/Momentum-Team-10/notes/blob/main/pks_and_fks.md)
 - [Django Music App](https://github.com/Momentum-Team-10/example-django-music)
+- [ER Diagram: O2M and M2M model relationships](https://github.com/Momentum-Team-10/notes/blob/main/O2M-and-M2M.md)
