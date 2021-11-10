@@ -72,6 +72,7 @@ For this project, the first team member listed should accept the assignment and 
 - [A great example of a README and a cool project 🏒](https://github.com/minter/tesla_puck)
 - [CRC model](http://agilemodeling.com/artifacts/crcModel.htm) _The Class-Responsibility-Collaborator model helps you to reason about how to design your models and relationships._
 
-## 🦉 Code
+## 🦉 Code & Notes
 
 - [Django Music App](https://github.com/Momentum-Team-10/example-django-music)
+- [Git Collaboration Slides](https://slides.com/amy_nc/git-collaboration)
