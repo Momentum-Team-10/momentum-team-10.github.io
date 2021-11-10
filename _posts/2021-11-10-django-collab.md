@@ -71,3 +71,7 @@ For this project, the first team member listed should accept the assignment and 
 - [makeareadme.com](https://www.makeareadme.com/) _Guidance for creating your own README file_
 - [A great example of a README and a cool project 🏒](https://github.com/minter/tesla_puck)
 - [CRC model](http://agilemodeling.com/artifacts/crcModel.htm) _The Class-Responsibility-Collaborator model helps you to reason about how to design your models and relationships._
+
+## 🦉 Code
+
+- [Django Music App](https://github.com/Momentum-Team-10/example-django-music)
