@@ -36,6 +36,7 @@ Keep on with your end-of-phase project. Today you should have models that you ca
   - retrieve specific objects with `filter()`
 - [Video: How Model Queries Work in Django](https://www.youtube.com/watch?v=WimXjp0ryOo)
 - [Lookups that span relationships](https://docs.djangoproject.com/en/3.2/topics/db/queries/#lookups-that-span-relationships)
+- [Field Lookups](https://docs.djangoproject.com/en/3.2/topics/db/queries/#field-lookups)
 
 ### Implementing Search
 
