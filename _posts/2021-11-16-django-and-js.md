@@ -49,7 +49,7 @@ Setting a breakpoint can help you figure out what code you need in your views!
 ## ⭐ EXTRA/TMI
 
 - [Django Views the Right Way](https://spookylukey.github.io/django-views-the-right-way/the-pattern.html) _This is a detailed, informative deep dive on function-based views in Django and the reasons why, in the author's opinion, they are better than class-based views._
-- [jQuery](https://jquery.com/) _This is not something I recommend using right now, but I include it here because a lot of the resources you will encounter about using JavaScript in a web browser will refer to it (like the article on unintrusive js listed above). It is not as popular as it once was, and it is incompatible with a framework like React. But you will sometimes come across it, and you may end up working with it at your job, so you might as well recognize it when you see it and look it up if you ever need it._
+- [jQuery](https://jquery.com/) _This is not something I recommend using right now, but I include it here because a lot of the resources about using JavaScript in a web browser refer to it (several of the articles above do). It is not as popular as it once was, and it is incompatible with a framework like React. But you will sometimes come across it, and you may end up working with it at your job, so you might as well recognize it when you see it and look it up if you ever need it._
 
 ## 🦉 Code
 
