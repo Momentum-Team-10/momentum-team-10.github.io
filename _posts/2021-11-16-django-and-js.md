@@ -55,4 +55,4 @@ Setting a breakpoint can help you figure out what code you need in your views!
 
 - [Django Music: Basic Search example](https://github.com/Momentum-Team-10/example-django-music/commit/abc285ae36e0cf6a3e64ea5df88fa73ff7d3d6b6)
 - [Django Music: More Search examples](https://github.com/Momentum-Team-10/example-django-music/commit/4a5c94feb3c9fb7231bf8e8e866fd1af9f17848f)
-- [Django Music: Adding JS]()
+- [Django Music: Adding JS](https://github.com/Momentum-Team-10/example-django-music/commit/cc93a888dc7c1cf5f80d87c960662f6190964f05)
