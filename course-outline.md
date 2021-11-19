@@ -5,7 +5,7 @@ layout: default
 ---
 
 
-For the entire 16 weeks, we are in session each day between 9:30 am - 5:30 pm, with a 1-hour break expected for lunch. You are expected to be online and available during these hours. If you need to step away for an appointment or because you're sick, please let Dawn and your instructors know.
+For the entire 16 weeks, we are in session each day between 9:30 am - 5:30 pm, with a 1-hour break expected for lunch. You are expected to be online and available during these hours. If you need to step away for an appointment or because you're sick, please let staff and instructors know.
 
 ## Class & Assignments
 
