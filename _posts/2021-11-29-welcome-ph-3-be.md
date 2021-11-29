@@ -53,5 +53,5 @@ _These are this week's required readings, videos, and/or podcasts. Read, watch, 
 
 ## 🔖 Resources
 
-- [Checklist for deploying to Heroku](https://github.com/momentumlearn/student-resources/blob/main/articles/deploy-django-to-heroku.md)
+- [🚀 Deploying a Django app to Heroku](https://momentumlearn.notion.site/Deploying-a-Django-App-to-Heroku-81488333c03445539bfc7eb3c1691ed0)
 - [How to use django-extensions `shell_plus`](https://django-extensions.readthedocs.io/en/latest/shell_plus.html#shell-plus)
