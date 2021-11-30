@@ -4,20 +4,20 @@ title: 🦊 Get to Know React 🦊
 tags: phase-3 phase-3-fe javascript
 ---
 
-## Topics
+## ⚛ Today's topics
 
-- Return to JS!
+- Exercism review
 - Intro to React
-  - Why does React exist? What problem does it solve?
-  - How is it different from vanilla JS?
+  - How does React work?
+  - What does React code look like?
 
 ## 🛠️ Setup
 
 Make sure you have the following set up in your local environment:
 
 - Node & `npm`
-- `create-react-app`
-- VS Code extension for JSX and Standard.js
+- `create-react-app` (see below for docs)
+- ESLint for VS Code
 
 ### 📖 Read | 📺 Watch | 🎧 Listen
 
