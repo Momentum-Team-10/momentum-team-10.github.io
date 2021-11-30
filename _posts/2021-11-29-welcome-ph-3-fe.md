@@ -23,7 +23,7 @@ _These are required readings, videos, and/or podcasts. Read, watch, or listen, a
 - 🎧 [How to think like a Front-End Developer](https://shoptalkshow.com/series/how-to-think-like-a-front-end-developer/) -> Listen to the first episode with Eric Meyer, but all the episodes are really great!
 - 📺 [ES6 tutorial for beginners](https://www.youtube.com/watch?v=WZQc7RUAg18)
 - 📖 [React vs. Plain JavaScript](https://www.framer.com/blog/posts/react-vs-vanilla-js/) -> This will be helpful background reading for our introduction to React tomorrow.
-- 📺 [Modern JavScript for Django Developers](https://2021.djangocon.us/talks/modern-javascript-for-django-developers/)
+- 📺 [Modern JavaScript for Django Developers](https://2021.djangocon.us/talks/modern-javascript-for-django-developers/)
 
 
 ## 💻 Write Code
