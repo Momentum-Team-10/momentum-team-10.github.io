@@ -13,11 +13,12 @@ tags: phase-3 phase-3-fe javascript
 
 ## 🛠️ Setup
 
-Make sure you have the following set up in your local environment:
+Make sure you have the following set up in your local environment (docs listed below in Resources):
 
 - Node & `npm`
-- `create-react-app` (see below for docs)
+- `create-react-app`
 - ESLint for VS Code
+- React developer tools for Chrome
 
 ### 📖 Read | 📺 Watch | 🎧 Listen
 
@@ -40,3 +41,4 @@ If you finish this and want to keep going, try one of these other tutorials:
 - [ESLint Plug-in for VS Code](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [ESLint Docs: Getting Started](https://eslint.org/docs/user-guide/getting-started) You probably don't need to get too deep into this right now, but if you want to know more about configuring ESLint, this is the place to go.
 - [How to Lint and Format Code with ESLint in VS Code](https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code) This tutorial walks you through using ESLint in a more comprehensive way.
+- [React Dev Tools Extension Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
