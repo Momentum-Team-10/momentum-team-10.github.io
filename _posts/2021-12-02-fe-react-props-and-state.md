@@ -34,3 +34,4 @@ Today, you'll start on your first React app without a tutorial. This is due on M
 
 - [MDN React Todo List Walk-through](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning)
 - [Just show me the code for the MDN Todo List](https://github.com/mdn/todo-react)
+- [React Devs For Hire](https://github.com/Momentum-Team-10/react-devs-for-hire)
