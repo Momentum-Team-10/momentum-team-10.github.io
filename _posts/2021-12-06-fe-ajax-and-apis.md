@@ -39,3 +39,4 @@ tags: phase-3 phase-3-fe react
 ## 🦉 Code
 
 - [React devs-for-hire](https://github.com/Momentum-Team-10/react-devs-for-hire)
+- [Example React Freeshelf](https://github.com/Momentum-Team-10/example-react-freeshelf)
