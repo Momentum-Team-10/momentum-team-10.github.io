@@ -36,6 +36,7 @@ The React Trivia application is due on Monday -- that means it meets at least th
 
 ## 🔖 Resources
 
-- [Netlify](https://docs.netlify.com/site-deploys/create-deploys/)
+- [Instructions for deploying a React app to Netlify](https://www.notion.so/momentumlearn/Deploying-a-React-app-to-Netlify-409f3e2a2ae44ccd857b3797ff0963f8)
+- [Netlify Docs](https://docs.netlify.com/site-deploys/create-deploys/)
 - [About the Ship It Mindset](https://excid3.com/blog/finishing-is-all-that-matters)
 - [ship it squirrel](https://shipitsquirrel.github.io/)
