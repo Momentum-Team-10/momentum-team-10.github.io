@@ -17,12 +17,12 @@ Your team can choose between two projects. They will _both_ give you practice do
 #### Social ECards
 
 - [Project description](https://github.com/momentum-projects/group--social-cards/blob/main/README.md)
-- [Social ECards assignment invitation](https://classroom.github.com/g/9AAU6FG7)
+- [Social ECards assignment invitation]()
 
 #### QuestionBox
 
 - [Project description](https://github.com/momentum-projects/group--questionbox/blob/main/README.md)
-- [QuestionBox assignment invitation](https://classroom.github.com/g/vJlPFp2V)
+- [QuestionBox assignment invitation](https://classroom.github.com/a/3-HyjyJU)
 
 Whichever one you choose, your whole team is building the same one. The backend will create its own repo and the front end will create its own repo, so for the same project you will have _two_ repos.
 
