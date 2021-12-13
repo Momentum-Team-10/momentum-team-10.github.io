@@ -68,28 +68,28 @@ a, a:visited, h1, h2, h3, h4, h5, h6 {
 .img--post {
   width: 45%;
   border: 1px solid silver;
-
+}
 /* CSS specific to posts for this team */
 
-#team-peregrine-falcon+p>img, #team-american-kestrel+p>img, #team-merlin+p>img {
+.team-img {
   border-radius: 50%;
   height: 100px;
 }
 
-#team-peregrine-falcon+p, #team-american-kestrel+p, #team-merlin+p {
+#team-rudolph+p, #team-elf+p, #team-grinch+p {
   float: left;
 }
 
-h3#team-peregrine-falcon, h3#team-american-kestrel, h3#team-merlin {
+h4#team-rudolph, h4#team-elf, h4#team-grinch {
   clear: left;
   padding-top: 30px;
 }
 
-.js-team-li {
+.team-list {
   margin-left: 150px;
 }
 
-h3#team-merlin~h2 {
+h4#team-grinch~h3 {
   clear: left;
   padding-top: 30px;
 }
