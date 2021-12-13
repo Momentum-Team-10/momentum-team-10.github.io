@@ -17,7 +17,7 @@ Your team can choose between two projects. They will _both_ give you practice do
 #### Social ECards
 
 - [Project description](https://github.com/momentum-projects/group--social-cards/blob/main/README.md)
-- [Social ECards assignment invitation]()
+- [Social ECards assignment invitation](https://classroom.github.com/a/USnXfp7N)
 
 #### QuestionBox
 
