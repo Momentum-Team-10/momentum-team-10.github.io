@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🐍 Designing Your Models & Your API 🐍
+title: 🐻 Designing Your Models & Your API 🐻
 tags: phase-3 phase-3-be django rest
 ---
 
