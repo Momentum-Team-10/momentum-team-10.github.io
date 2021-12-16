@@ -11,7 +11,7 @@ tags: phase-3 phase-3-fe react router
 
 ## 🎯 Project
 
-Continue planning with your team on tackling the Questionbox or Social Ecards projets. By Friday, you should be able to make requests for questions and answers if you are working on Questionbox or make requests for getting or creating cards. Deploy to Netlify as soon as possible (Tip 💡: Your code needs to run locally with no errors before you can deploy it!).
+Continue planning with your team on tackling the Questionbox or Social Ecards projects. By Friday, you should be able to make requests for questions and answers if you are working on Questionbox or make requests for getting or creating cards. Deploy to Netlify as soon as possible (Tip 💡: Your code needs to run locally with no errors before you can deploy it!).
 
 ## 📖 Read | 📺 Watch | 🎧 Listen
 
