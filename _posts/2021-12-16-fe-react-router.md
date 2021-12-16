@@ -26,3 +26,7 @@ Continue planning with your team on tackling the Questionbox or Social Ecards pr
 - [Token Authentication Endpoint guide for djoser library](https://djoser.readthedocs.io/en/latest/token_endpoints.html) -> This is the library being used by the backend, for your reference.
 - [A Complete Guide to React Router](https://ui.dev/react-router-tutorial/)
 - [The Complete Guide to URL Parameters with React Router](https://ui.dev/react-router-url-parameters/)
+
+## 🦉 Code
+
+- [React Router example using library API](https://github.com/Momentum-Team-10/example-react-router)
