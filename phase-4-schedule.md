@@ -16,21 +16,21 @@ layout: default
   - Starts Tuesday Jan 18
   - Morning with staff, 15 min in the 9:30-10:30 block
     - @9:30 Team Caktus
-    - @9:45 Team Gecko
-    - @10:00 Team Rudolph
+    - @9:45 Team Two-Man Turtle
+    - @10:00 Team Maestro Del Juego
     - @10:15 Team Matcha
   - Late-day, team only; set your own schedule
 - **Regular check-ins every Monday & Thursday**
   - Check your calendar for your team's time
   - The first check-in will be on **Tuesday Jan 18** because of the Monday holiday. This is the only 30 minute check-in.
     - @11:00 Team Caktus
-    - @11:30 Team Gecko
-    - @2:00 Team Rudolph
+    - @11:30 Team Two-Man Turtle
+    - @2:00 Team Maestro Del Juego
     - @2:30 Team Matcha
   - Every other check-in is scheduled for 60 minutes. These start on Thursday Jan 20.
     - @11:00 Team Caktus
-    - @12:00 Team Gecko
-    - @2:00 Team Rudolph
+    - @12:00 Team Two-Man Turtle
+    - @2:00 Team Maestro Del Juego
     - @3:00 Team Matcha
   - The last scheduled check-in is on Tuesday Feb 1.
 - **All-Team Check-in Friday Jan 28 @2:00 pm**
