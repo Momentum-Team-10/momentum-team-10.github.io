@@ -34,3 +34,8 @@ layout: default
 - [Asking technical questions: Your Brain's API](https://www.youtube.com/watch?v=hY14Er6JX2s)
 - [Julia Evans, How To Ask Good Questions](https://jvns.ca/blog/good-questions/)
 - [Rukia Sheikh-Mohamed, 5 Steps to Getting Unstuck](https://dev.to/rukiaasm/working-smarter-5-steps-to-getting-unstuck-with-rukia-sheikh-mohamed-1932)
+
+## Phase 4
+
+- [Detailed Final Week Schedule with links](phase-4-schedule.md)
+- [Final Presentations Guide](phase-4-demo-guide.md)
