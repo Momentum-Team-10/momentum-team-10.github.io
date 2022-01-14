@@ -19,6 +19,7 @@ layout: default
     - @9:45 Team Two-Man Turtle
     - @10:00 Team Maestro Del Juego
     - @10:15 Team Matcha
+  - Friday standups will be run **async**, meaning everyone posts their 3-bullet-point update in their team's Slack channel.
   - Late-day, team only; each team sets their own schedule.
 - **Regular check-ins every Monday & Thursday**
   - Check your calendar for your team's time
