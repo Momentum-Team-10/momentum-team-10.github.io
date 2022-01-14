@@ -13,13 +13,13 @@ layout: default
 *All times in EST.*
 
 - **Two daily standups**
-  - Starts Tuesday Jan 18
+  - Starts **Tuesday Jan 18**
   - Morning with staff, 15 min in the 9:30-10:30 block
     - @9:30 Team Caktus
     - @9:45 Team Two-Man Turtle
     - @10:00 Team Maestro Del Juego
     - @10:15 Team Matcha
-  - Late-day, team only; set your own schedule
+  - Late-day, team only; each team sets their own schedule.
 - **Regular check-ins every Monday & Thursday**
   - Check your calendar for your team's time
   - The first check-in will be on **Tuesday Jan 18** because of the Monday holiday. This is the only 30 minute check-in.
@@ -27,14 +27,14 @@ layout: default
     - @11:30 Team Two-Man Turtle
     - @2:00 Team Maestro Del Juego
     - @2:30 Team Matcha
-  - Every other check-in is scheduled for 60 minutes. These start on Thursday Jan 20.
+  - All the rest of the check-ins are scheduled for 60 minutes, starting on Thursday Jan 20.
     - @11:00 Team Caktus
     - @12:00 Team Two-Man Turtle
     - @2:00 Team Maestro Del Juego
     - @3:00 Team Matcha
   - The last scheduled check-in is on Tuesday Feb 1.
 - **All-Team Check-in Friday Jan 28 @2:00 pm**
-  - This is for all teams to show each other what they have been working on and get feedback and support from peers.
+  - All teams meet together to show each other what you have been working on and get feedback and support from peers.
 
 ## Final Week
 
@@ -42,7 +42,7 @@ layout: default
 
 - Standup and check-in @your regular times
 - **Feature Freeze** @EOD
-  - Nothing else can added to your application this week.
+  - No additional features can added to your application this week.
   - Only bug fixes, tying up loose ends, styling, and clean-up today and tomorrow.
 
 ### Tuesday Feb 1

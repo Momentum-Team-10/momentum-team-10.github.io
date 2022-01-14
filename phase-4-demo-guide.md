@@ -6,7 +6,7 @@ layout: default
 
 # Demo Presentation Guide
 
-Your team has _n_ minutes of presentation time, followed by _n_ minutes of Q&A time with panelists. Each developer on the team will introduce themselves before the presentation begins, and then should have about _n_ minutes during the actual presentation.
+Your team has _x_ minutes of presentation time, followed by _y_ minutes of Q&A time with panelists. Each developer on the team will introduce themselves before the presentation begins, and then should have about _z_ minutes during the actual presentation.
 
 _Each person on your team should be prepared to answer questions_. Decide ahead of time who will take what type of questions (see the section below on prepping for Q&A).
 
@@ -38,7 +38,7 @@ Record a screencast that demos your app's features. You and your team will talk 
 
 Write a short (1-2 sentences) description of your app. This will be used along with a video of your presentation on your website when we post it, and may be used when Momentum staff communicate verbally or in writing with employers or others outside our organization about what your team built.
 
-Upload your final video and description (AND APP NAME!) to the Google Drive folder below by **Thursday, October 21 at 2:00 pm**.
+Upload your final video and description (AND APP NAME!) to the Google Drive folder below by **Thursday, Feb 3 at 2:00 pm**.
 
 - [Google Drive folder](https://drive.google.com/drive/folders/1yqX2wikhrrZ5c1s3pL_LqxHe2a_Ijb9V?usp=sharing)
 
